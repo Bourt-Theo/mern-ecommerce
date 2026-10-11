@@ -118,7 +118,7 @@ npm run dev
 
 ## Membres du groupe
 
-- Théo, B., Bourt-Theo
-- Anthony, L., AnthonyLaveau
-- Ekin, K., ekin-kaya
-- Freddy, G., freddygwed 
+- Théo BOURT, Bourt-Theo
+- Anthony LAVEAU, AnthonyLaveau
+- Ekin KAYA , ekin-kaya
+- Freddy GWED, freddygwed 
