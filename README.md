@@ -121,4 +121,4 @@ npm run dev
 - Théo, B., Bourt-Theo
 - Anthony, L., AnthonyLaveau
 - Ekin, K., ekin-kaya
-- Prénom, Initial Nom, Pseudo GitHub 
+- Freddy, G., freddygwed 
