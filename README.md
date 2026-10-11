@@ -119,4 +119,4 @@ npm run dev
 ## Membres du groupe
 
 - Théo, B., ton-pseudo-github
-- Prénom, Initiale du nom, pseudo-github
+- Anthony, L., AnthonyLaveau
